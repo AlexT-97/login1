@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "comunidadbd-c5291": {
+      "hosting": {
+        "login": [
+          "comunidadbd-c5291"
+        ]
+      }
+    }
+  }
+}
